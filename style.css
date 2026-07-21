@@ -11,4 +11,30 @@ body{
     align-items: center;
     min-height: 100vh;
 }
-
+.container{
+    width: 500px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    font-size: 25px;
+    background-color: rgb(65, 65, 163);
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.sttid{
+    width: 100%;padding: 10px;
+}
+.h3{
+    text-align: center;
+    padding: 5px;
+    color: aqua;
+}
+.para{
+    padding: 10px;
+    font-size: 20px;
+}
